@@ -8,4 +8,4 @@ end
 def parrot
   phrase = "Squawk!"
   phrase = "chirp"
-  phrase = ""
+end
