@@ -1,8 +1,10 @@
 def parrot
-  put  "Squawk!"
+  put "Squawk!"
 end
 
 
 def parrot
   motto = "Squawk!"
 end
+
+def parrot
