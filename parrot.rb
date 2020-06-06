@@ -4,7 +4,7 @@ end
 
 
 def parrot
-  motto = "Squawk!"
+  puts = "Squawk!"
 end
 
 def parrot
