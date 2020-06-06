@@ -7,4 +7,5 @@ end
 
 def parrot
   phrase = "Squawk!"
-end
+  phrase = "chirp"
+  phrase = ""
