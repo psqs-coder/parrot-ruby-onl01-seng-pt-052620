@@ -1,5 +1,5 @@
 def parrot
-  $stdout "Squawk!"
+  put  "Squawk!"
 end
 
 
