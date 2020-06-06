@@ -4,7 +4,7 @@ end
 
 
 def parrot
-  put = "Squawk!"
+  phrase = "Squawk!"
 end
 
 def parrot
