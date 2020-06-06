@@ -4,5 +4,5 @@ end
 
 
 def parrot
-  motto = "squawk!"
+  motto = "Squawk!"
 end
